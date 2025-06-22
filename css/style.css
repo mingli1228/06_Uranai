@@ -26,3 +26,9 @@ body {
   height: 100%;
   width: 80%;
 }
+
+.resultLong {
+  margin: 50px;
+  font-size: 30px;
+  font-family: "Shippori Mincho B1", serif;
+}
