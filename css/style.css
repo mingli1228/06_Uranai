@@ -1,0 +1,28 @@
+body {
+  background-color: pink;
+}
+
+#resultBox {
+  display: flex;
+  align-items: center;
+  height: 60vh;
+}
+
+#left {
+  font-family: "Shippori Mincho B1", serif;
+  font-size: 80px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  height: 100%;
+  width: 20%;
+}
+
+#right {
+  background-color: paleturquoise;
+  height: 100%;
+  width: 80%;
+}
